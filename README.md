@@ -1,5 +1,5 @@
 <details>
-<summary> "Talk is cheap. Show me the code." - Linus Torvalds</summary>
+<summary> "There are only two hard things in Computer Science: cache invalidation and naming things." - Phil Karlton</summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,3 +8,8 @@
     <img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
 </p>
 </details>
+
+<!-- 
+Previous quotes:
+  "Talk is cheap. Show me the code." - Linus Torvalds
+-->
