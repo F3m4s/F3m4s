@@ -1,5 +1,5 @@
 <details>
-<summary> "There are only two types of programming languages: the ones people complain about and the ones that nobody uses." - Bjarne Stroustrup</summary>
+<summary> "There are only two types of programming languages: the ones people complain about and the ones that nobody uses." \n\t- Bjarne Stroustrup</summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
