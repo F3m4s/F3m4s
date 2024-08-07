@@ -1,5 +1,5 @@
 <details>
-<summary> "There are only two hard things in Computer Science: cache invalidation and naming things." - Phil Karlton</summary>
+<summary> "There are only two types of programming languages: the ones people complain about and the ones that nobody uses." - Bjarne Stroustrup</summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,4 +12,5 @@
 <!-- 
 Previous quotes:
   "Talk is cheap. Show me the code." - Linus Torvalds
+  "There are only two hard things in Computer Science: cache invalidation and naming things." - Phil Karlton
 -->
