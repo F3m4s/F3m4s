@@ -1,5 +1,5 @@
 <details>
-<summary> "There are only two types of programming languages: the ones people complain about and the ones that nobody uses."<br>&nbsp;&nbsp;&nbsp;&nbsp;- Bjarne Stroustrup</summary>
+<summary>&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;&equiv;</summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,9 +8,3 @@
     <img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
 </p>
 </details>
-
-<!-- 
-Previous quotes:
-  "Talk is cheap. Show me the code." - Linus Torvalds
-  "There are only two hard things in Computer Science: cache invalidation and naming things." - Phil Karlton
--->
